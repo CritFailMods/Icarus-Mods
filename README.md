@@ -1,5 +1,5 @@
 # Icarus-Mods
-"Waste Not" talent upgrade (Exotics instead of Stone as the secondary resource)
+CritFail_ExoticTalent_Mod_v1_P.pak -- "Waste Not" talent upgrade (Exotics instead of Stone as the secondary resource)
 
 This will have the following changes in-game - when you mine stone or any ore (iron, copper, gold etc. and oxite/silica/sulfur) there is a 1/2/3% chance (based on the number of points invested in the talen) of mining Exotics as a secondary resource. The amount earned does increase based on what pickaxe you are using (i.e. you will get more using the Inaris workshop pickaxe than anything else).
 
