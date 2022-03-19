@@ -1,7 +1,11 @@
 # Icarus-Mods
-CritFail_ExoticTalent_Mod_v1_P.pak -- "Waste Not" talent upgrade (Exotics instead of Stone as the secondary resource)
+CritFail_WasteNot_v2_P.pak -- "Waste Not" talent upgrade (Exotics instead of Stone as the secondary resource)
 
-When you mine stone or any ore (iron, copper, gold etc. and oxite/silica/sulfur) there is a 1/2/3% chance of mining Exotics as a secondary resource. The amount earned does increase based on what pickaxe you are using (i.e. you will get more using the Inaris workshop pickaxe than anything else).
+DISCLAIMER: this mod is intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
+
+The 'Waste Not' talent has been adjusted and renamed. NOTE: It is now a ONE POINT talent, so if you currently have more than 1 point invested, I advise you to respec the extra points so that you do not lose them.
+
+All voxel nodes now have a 1% chance to yield bonus resources: metal nodes will yield Exotics as their secondary resource, while stone, oxite, sulfur, and silica will yield more of the same as their secondary.
 
 Installation instructions - after downloading file, go to:
 C:\Program Files(x86)\Steam\steamapps\common\Icarus\Icarus\Content\Paks - if you have not already done so, create a folder in the Paks folder and name it 'mods'.
