@@ -34,7 +34,7 @@ Wheat/Flour stack count of 500.
 
 Hunting Changes:
 Adjust the loot rewards of various creatures to make it a bit better. Adjust ammo recipes to make more sense and craft stacks
-of 5-10 instead of 1. Stack counts of ammo raised to 200. Slight changes to armor bonuses. Leather/Fur stack counts 100, bone stack count 400.
+of 5-10 instead of 1. Stack counts of ammo raised to 200. Leather/Fur stack counts 100, bone stack count 400.
 
 Misc Changes:
 Ores/ingots all stack to 100 
