@@ -8,5 +8,5 @@ Changes:
 Top Tier Shengong envirosuits modified to noticeable different - one provides an "extreme survival" benefit, while the other provides a step up from
 the Hark suit.
 
-Cloth, Leather and Fur armor sets adjusted to be less suitable in the opposing extreme environments. Cloth is no longer a viable option in the arctic,
+Cloth, Leather and Fur armor stats and set bonuses have been adjusted to be less suitable in the opposing extreme environments. Cloth is no longer a viable option in the arctic,
 while Leather and Fur will make you overheat in the desert. Other armor sets unchanged. 
