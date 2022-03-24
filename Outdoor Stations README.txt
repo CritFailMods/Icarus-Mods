@@ -16,6 +16,9 @@ Trophy Bench
 Anvil
 Glassworking Bench
 Biofuel Generator
+Cooking Station
+Potbelly Stove
+Oxite Dissolver
 
 Installation instructions - after downloading file, go to:
 C:\Program Files(x86)\Steam\steamapps\common\Icarus\Icarus\Content\Paks - 
