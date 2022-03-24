@@ -5,26 +5,6 @@ Even out plants into loot/time categories - if a recipe calls for 3 different pl
 from an even amount of crop plots. Should not have twice as many carrot plots to squash/pumpkins. End result should be a base growth reward of
 what you would get harvesting in the wild (based off of sickle value if possible) before the talent bonuses are factored in.
 
-Group 1: base yield of 3-6
-Carrots
-Pumpkin
-Squash
-Watermelon
-Berries
-Mushrooms
-Corn
-Soy Beans
-Spoiled Crop
-
-Group 2: base yield of 12-24
-Wheat
-
-Group 3: base yield of 2-4
-Lily
-Reed
-Yeast
-Hot Drink stuff (cocoa, teas, etc.)
-
 Greenhouse improvements:
 Increased the durability of glass buildables to the level of stone so they aren’t so fragile; adjusted crafting costs.
 
