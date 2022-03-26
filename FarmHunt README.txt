@@ -22,14 +22,14 @@ Fiber/Sticks stack to 500
 Stone/Wood stack to 200
 
 Animal Loot before factoring Talents/Tool bonuses (100% chance to drop item at a quanitity within given range unless otherwise noted):
-Rabbits - 1-2 fur(75%), 1-3 bone, 1 raw meat, 1-2 soft meat (25% chance)
-Chamois - 3-6 leather, 1-2 fur(75%), 1-4 bone, 1-2 raw meat, 1-2 gamey meat (25% chance)
-Baby Deer - 1-3 leather, 1-2 fur(75%), 1-3 bone, 1 raw meat, 1-2 soft meat (25% chance)
-Deer - 5-8 leather, 1-3 fur(75%), 1-5 bone, 1-2 raw meat, 1-3 gamey meat (25% chance)
-Zebra - 5-8 leather, 1-3 fur(75%), 1-5 bone, 1-2 raw meat, 1-3 gamey meat (25% chance)
-Lion - 4-8 leather, 1-2 fur(75%), 2-5 bone, 1-2 raw meat, 1-2 stringy meat (25% chance)
-Bear - 6-10 leather, 5-8 fur, 12-16 bone, 2-3 raw meat, 1-3 fatty t-bone (25% bone)
-Mammoth - 12-20 leather, 10-16 fur, 12-24 bone, 2-4 raw meat, 3-5 giant steak (25% chance), 3-5 fatty t-bone (25% chance), 1 mammoth tusk
-Polar Bear - 3-8 polar bear pelt, 10-16 bone, 2-3 raw meat, 2-4 fatty t-bone (25% chance)
-Wolf - 5-8 leather, 1-4 fur, 1-4 bone, 1-2 raw meat, 1-2 stringy meat (25% chance)
-Elephant - 10-16 leather, 12-20 bone, 2-3 raw meat, 2-4 giant steak (25% chance)
+Rabbits - 1-2 fur(75%), 1-3 bone, 1 raw meat, 1-2 soft meat (50% chance)
+Chamois - 3-6 leather, 1-2 fur(75%), 1-4 bone, 1-2 raw meat, 1-2 gamey meat (50% chance)
+Baby Deer - 1-3 leather, 1-2 fur(75%), 1-3 bone, 1 raw meat, 1-2 soft meat (50% chance)
+Deer - 5-8 leather, 1-3 fur(75%), 1-5 bone, 1-2 raw meat, 1-3 gamey meat (50% chance)
+Zebra - 5-8 leather, 1-3 fur(75%), 1-5 bone, 1-2 raw meat, 1-3 gamey meat (50% chance)
+Lion - 4-8 leather, 1-2 fur(75%), 2-5 bone, 1-2 raw meat, 1-2 stringy meat (50% chance)
+Bear - 6-10 leather, 5-8 fur, 12-16 bone, 2-3 raw meat, 1-3 fatty t-bone (50% chance)
+Mammoth - 12-20 leather, 10-16 fur, 12-24 bone, 2-4 raw meat, 3-5 giant steak (50% chance), 3-5 fatty t-bone (50% chance), 1 mammoth tusk
+Polar Bear - 3-8 polar bear pelt, 10-16 bone, 2-3 raw meat, 2-4 fatty t-bone (50% chance)
+Wolf - 5-8 leather, 1-4 fur, 1-4 bone, 1-2 raw meat, 1-2 stringy meat (50% chance)
+Elephant - 10-16 leather, 12-20 bone, 2-3 raw meat, 2-4 giant steak (50% chance)
