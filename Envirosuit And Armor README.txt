@@ -6,4 +6,4 @@ envirosuits or armor base stats.
 Changes:
 
 Some Envirosuits have had their stats adjusted to give more variety. All Armor set bonuses have been adjusted to provide more variation
-and purpose to them. Armor set items have been put back to vanilla until the new temperature changes are further tested and fleshed out. 
+and purpose to them (composite is now the best performing armor set, even more than Naneo workshop armor). Armor set items have mostly been put back to vanilla until the new temperature changes are further tested and fleshed out (exception: Composite armor has been granted addition Armor Insulation and Stamina Regen bonuses).
