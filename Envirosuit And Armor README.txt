@@ -5,5 +5,5 @@ envirosuits or armor base stats.
 
 Changes:
 
-Some Envirosuits have had their stats adjusted to give more variety. All Armor sets and their bonuses have been adjusted to provide more variation
-and purpose to them. Some of these changes mean that a given suit WILL be ill advised in certain biomes (i.e. don't wear fur to the desert). 
+Some Envirosuits have had their stats adjusted to give more variety. All Armor set bonuses have been adjusted to provide more variation
+and purpose to them. Armor set items have been put back to vanilla until the new temperature changes are further tested and fleshed out. 
