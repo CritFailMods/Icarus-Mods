@@ -1,4 +1,4 @@
-CritFail FarmHunt v1
+CritFail FarmHunt v1.17
 
 Farming Changes:
 Even out plants into loot/time categories - if a recipe calls for 3 different plants, you should be able to get an even amount of resources
