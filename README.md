@@ -38,16 +38,6 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Biofuel Lantern capacity increased to 5L (was 1)
 * Biofuel Lamp capacity increased to 8L (was 2)
 
-**UPGRADE MODULES AND BACKPACKS: (included in FHComplete and FHModules&Backpacks)**
-* Movement speed module increased to 10% (was 5)
-* Patcher I module increased to 3 inventory slots (was 2) and added a 6kg weight capacity increase
-* Patcher II module increased to 6 inventory slots (was 5) and added a 12kg weight capacity increase
-* Carry Weight module increased to 20kg weight capacity (was 5)
-* Basic Backpack - weight capacity increased to 10kg (was 5), added a 10% stone and wood carry weight reduction
-* Gatherer's Backpack (red) - added 20kg weight capacity increase, decreased ore and wood weight reduction to -30% (was 45%) and added stone weight reduction of -30%
-* Archer's Backpack (yellow) - bow reload speed 40% (was 25), arrow speed 20% (was 10), bow aim down sight speed 25% (was10)
-* Survival Backpack (green) - fall damage resist 30% (was 25), sprain resist 60% (was 50), sprain duration reduction 75% (was 50), movement speed 10% (was 5)
-
 **ITEM STACK SIZES: (included in FHComplete and FHStacks)**
 * Stacks to 500 - Fiber, Sticks, Charcoal, Tree Sap, Rope, Epoxy, Gunpowder, Flour, Wheat, Crushed Bone
 * Stacks to 200 - Stone, Wood, Leather, Fur, Concrete Mix, Nails/Screws/Rebar, all ammunition
