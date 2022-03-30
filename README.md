@@ -1,6 +1,6 @@
 # CritFail Mods
 
-Waste Not:
+**Waste Not Mod**
 * Changes the 'Waste Not' talent to the 'What's This?" custom talent - instead of giving you a chance to yield extra stone, it now yields more of the same material as what you are mining, except for Platinum and Titanium, which have a chance to yield Exotic Ore as a secondary resource. % chance reduced to 1% per point invested.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
