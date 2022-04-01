@@ -1,7 +1,7 @@
 # CritFail Mods
 
 **Waste Not Mod**
-* Changes the 'Waste Not' talent to the 'What's This?" custom talent - instead of giving you a chance to yield extra stone, it now yields more of the same material as what you are mining, except for Platinum and Titanium, which have a chance to yield Exotic Ore as a secondary resource. % chance reduced to 1% per point invested.
+* Changes the 'Waste Not' talent to the 'What's This?" custom talent - instead of giving you a chance to yield extra stone, it now yields more of the same material as what you are mining, except for Platinum and Titanium, which have a chance to yield Exotic Ore as a secondary resource. 2/5/10% chance based on number of points invested.
 
 **Linkarus Releveling Mod**
 * Hosted here so as not to lose it - this mod adjusts level rewards so that you continue to earn Talent points past the level cap of 50. Does not reward additional Solo tree Talent points.
