@@ -31,6 +31,7 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **WORKSHOP ITEM REPAIRS: >> (Only included in FHComplete) <<**
 * All MXC, Shengong, and Inaris tools and weapons are repairable in-game at either the Machining Bench or Fabricator (depending on the item). Repairs will cost Exotic Ore in addition to 2 other materials.
+* New Larkwell items buffed to 70k health (was 40k), and added more stats to the items to make them better. See Workshop in-game for more details.
 
 **POWER NETWORK & FUEL: >> (Only included in FHComplete) <<**
 * Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
