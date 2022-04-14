@@ -10,7 +10,6 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Floor torches craftable in x1/x2/x5 quantities
 * Electronics craftable in x1/x5/x10 quantities (x10 offers a 10% discount on materials)
 * Concrete Mix craftable in x1/x10 quantities (x10 offers a 10% discount on materials)
-* Hedgehogs craftable in x1/x10 quantities (x10 offers a 10% discount on materials) - also has 10k health instead of 1k
 * Fuel can cost reduced from 25 ingots to 10
 * Rope recipe added to Textiles Bench using Fur
 * Fertilizer alternate recipe using Fur added to Wood Composter
