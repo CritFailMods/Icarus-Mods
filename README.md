@@ -4,7 +4,7 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **CHANGES INCLUDED IN THE FARM HUNT MODS:**
 
-** > > > DEEP VEIN DRILLS NOW MINE FASTER! < < < **
+**> > > DEEP VEIN DRILLS NOW MINE FASTER! < < <**
 
 **CRAFTING: (included with FHComplete and FHCraft)**
 * Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
