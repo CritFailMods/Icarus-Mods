@@ -4,7 +4,7 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **CHANGES INCLUDED IN THE FARM HUNT MODS:**
 
-**> > > DEEP VEIN DRILLS NOW MINE FASTER! < < <**
+**> > > DEEP VEIN DRILLS NOW MINE FASTER! (Included in FHComplete) < < <**
 
 **CRAFTING: (included with FHComplete and FHCraft)**
 * Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
@@ -19,6 +19,11 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **GLASS BUILDINGS: >> (Only included with FHComplete) <<**
 * Added 50% tree collision resistance and 100% wind damage resistance
+
+**ENERGY NETWORK: (included with FHComplete and FHEnergy)**
+* Biofuel Generator & Solar Panels now support 50,000 units of power instead of 5k
+* Fuel cans set to x5 capacity
+* Biofuel-powered lights have larger capacity for fuel
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
