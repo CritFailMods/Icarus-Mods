@@ -7,6 +7,7 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **> > > DEEP VEIN DRILLS NOW MINE FASTER! (Included in FHComplete) < < <**
 
 **CRAFTING: (included with FHComplete and FHCraft)**
+* Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
 * Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
 * Sticks from Wood recipe added to Mortar and Material Processor
 * Floor torches craftable in x1/x2/x5 quantities
@@ -35,9 +36,10 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Buffs that were 900sec are now 1200sec
 * Buffs that were 1200sec are unchanged
 
-**WORKSHOP ITEM REPAIRS: >> (Only included in FHComplete) <<**
-* All MXC, Shengong, and Inaris tools and weapons are repairable in-game at either the Machining Bench or Fabricator (depending on the item). Repairs will cost Exotic Ore in addition to 2 other materials.
-* New Larkwell items buffed to 70k health (was 40k), and added more stats to the items to make them better. See Workshop in-game for more details.
+**WORKSHOP ITEMS: (only part of FHComplete)**
+* O2 tank and canteen come pre-filled
+* Workshop Biofuel can has 100k units of fuel
+* Larkwell items buffed to 400k health
 
 **POWER NETWORK & FUEL: >> (Only included in FHComplete) <<**
 * Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
