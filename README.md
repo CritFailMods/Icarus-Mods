@@ -10,21 +10,15 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
 * Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
 * Sticks from Wood recipe added to Mortar and Material Processor
-* Electronics now cheaper to craft and can be crafted in bulk
+* Electronics now cheaper to craft and can be crafted in x1/x10 quantities
 * Concrete Mix craftable in x1/x10 quantities
 * Fuel can cost reduced from 25 ingots to 10
 * Rope recipe added to Textiles Bench using Fur
-* Wood Composter - can now convert sticks to Biofuel so you have a fuel source earlier in game
 * Fertilizer from Fur - take that excess fur, throw it in the Wood Composter, and make some plant food!
 * Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
 
 **GLASS BUILDINGS: >> (Only included with FHComplete) <<**
 * Now have the durability of concrete buildables
-
-**ENERGY NETWORK: (included with FHComplete and FHEnergy)**
-* Biofuel Generator & Solar Panels now support 50,000 units of power instead of 5k
-* Fuel cans set to x5 capacity
-* Biofuel-powered lights have larger capacity for fuel
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
@@ -51,6 +45,7 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **POWER NETWORK & FUEL: >> (Only included in FHComplete) <<**
 * Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
 * Fuel Can capacity increased to 50L (was 10)
+* NEW Early Game Biofuel production - Wood Composter has sticks/tree sap recipe to generate biofuel (though at a slow rate compared to T3 composter)
 * Biofuel Lantern capacity increased to 5L (was 1)
 * Biofuel Lamp capacity increased to 8L (was 2)
 
@@ -58,7 +53,6 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Stacks to 500 - Fiber, Sticks, Charcoal, Tree Sap, Rope, Epoxy, Gunpowder, Flour, Wheat, Crushed Bone
 * Stacks to 200 - Stone, Wood, Leather, Fur, Concrete Mix, Nails/Screws/Rebar, all ammunition
 * Stacks to 100 - Ore, Ingots, Crops, Meat, Food
-* Stacks to 50 - all buildable structure items
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
