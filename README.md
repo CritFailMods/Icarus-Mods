@@ -10,16 +10,16 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
 * Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
 * Sticks from Wood recipe added to Mortar and Material Processor
-* Floor torches craftable in x1/x2/x5 quantities
-* Electronics craftable in x1/x5/x10 quantities (x10 offers a 10% discount on materials)
-* Concrete Mix craftable in x1/x10 quantities (x10 offers a 10% discount on materials)
+* Electronics now cheaper to craft and can be crafted in bulk
+* Concrete Mix craftable in x1/x10 quantities
 * Fuel can cost reduced from 25 ingots to 10
 * Rope recipe added to Textiles Bench using Fur
-* Fertilizer alternate recipe using Fur added to Wood Composter
-* Hydroponics Crop Plot recipe change (requires Carbon Fiber instead of Compositess, resource costs lowered by 50%)
+* Wood Composter - can now convert sticks to Biofuel so you have a fuel source earlier in game
+* Fertilizer from Fur - take that excess fur, throw it in the Wood Composter, and make some plant food!
+* Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
 
 **GLASS BUILDINGS: >> (Only included with FHComplete) <<**
-* Added 50% tree collision resistance and 100% wind damage resistance
+* Now have the durability of concrete buildables
 
 **ENERGY NETWORK: (included with FHComplete and FHEnergy)**
 * Biofuel Generator & Solar Panels now support 50,000 units of power instead of 5k
@@ -34,12 +34,19 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **FOOD BUFFS: (included in FHComplete and FHFoodBuffs)**
 * Buffs that were 600sec are now 900sec
 * Buffs that were 900sec are now 1200sec
-* Buffs that were 1200sec are unchanged
+* Drinkables are improved (tea, coffee, etc.)
+* Workshop buff items are improved (gel, ration, etc.)
+
+**WEAPONS AND DAMAGE** (included in FHComplete)
+* Rifles and Bows do more damage now
+* Arrows fly much faster - similar to what you would expect from a compound bow in real life
+* Combine with Larkwell backpack for even more damage (plus 100% ammo capacity on rifles!)
 
 **WORKSHOP ITEMS: (only part of FHComplete)**
 * O2 tank and canteen come pre-filled
 * Workshop Biofuel can has 100k units of fuel
-* Larkwell items buffed to 400k health
+* Workshop tools now match the health of their crafted equivalents
+* Larkwell items buffed to 500k health
 
 **POWER NETWORK & FUEL: >> (Only included in FHComplete) <<**
 * Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
