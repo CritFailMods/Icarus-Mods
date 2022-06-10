@@ -39,8 +39,11 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Biofuel Lamp capacity increased to 8L (was 2)
 
 **> The following improvements are ONLY included in FHComplete**
+
 **DEEP VEIN DRILL SPEED INCREASED**
+
 **DROPSHIP LOADOUT INCREASED TO 34 SLOTS**
+
 **WORKSHOP ITEMS:**
 * O2 tank and canteen come pre-filled
 * Workshop Biofuel can has 100k units of fuel
