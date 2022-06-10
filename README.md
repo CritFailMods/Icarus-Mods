@@ -4,10 +4,6 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **CHANGES INCLUDED IN THE FARM HUNT MODS:**
 
-**> DEEP VEIN DRILLS NOW MINE FASTER! (Included in FHComplete) < < <**
-
-**> Dropship Loadout increased to 34 slots**
-
 **CRAFTING: (included with FHComplete and FHCraft)**
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
 * Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
@@ -18,9 +14,6 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Rope recipe added to Textiles Bench using Fur
 * Fertilizer from Fur - take that excess fur, throw it in the Wood Composter, and make some plant food!
 * Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
-
-**GLASS BUILDINGS: >> (Only included with FHComplete) <<**
-* Now have the durability of concrete buildables
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
@@ -33,28 +26,32 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Drinkables are improved (tea, coffee, etc.)
 * Workshop buff items are improved (gel, ration, etc.)
 
-**WEAPONS AND DAMAGE** (included in FHComplete)
-* Rifles and Bows do more damage now
-* Arrows fly much faster - similar to what you would expect from a compound bow in real life
-* Combine with Larkwell backpack for even more damage (plus 100% ammo capacity on rifles!)
+**ITEM STACK SIZES: (included in FHComplete and FHStacks)**
+* Stacks to 500 - Fiber, Sticks, Charcoal, Tree Sap, Rope, Epoxy, Gunpowder, Flour, Wheat, Crushed Bone
+* Stacks to 200 - Stone, Wood, Leather, Fur, Concrete Mix, Nails/Screws/Rebar, all ammunition
+* Stacks to 100 - Ore, Ingots, Crops, Meat, Food
 
-**WORKSHOP ITEMS: (only part of FHComplete)**
-* O2 tank and canteen come pre-filled
-* Workshop Biofuel can has 100k units of fuel
-* Workshop tools now match the health of their crafted equivalents
-* Larkwell items buffed to 500k health
-
-**POWER NETWORK & FUEL: >> (Only included in FHComplete) <<**
+**POWER NETWORK & FUEL: (included in FHComplete and FHStacks)**
 * Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
 * Fuel Can capacity increased to 50L (was 10)
 * NEW Early Game Biofuel production - Wood Composter has sticks/tree sap recipe to generate biofuel (though at a slow rate compared to T3 composter)
 * Biofuel Lantern capacity increased to 5L (was 1)
 * Biofuel Lamp capacity increased to 8L (was 2)
 
-**ITEM STACK SIZES: (included in FHComplete and FHStacks)**
-* Stacks to 500 - Fiber, Sticks, Charcoal, Tree Sap, Rope, Epoxy, Gunpowder, Flour, Wheat, Crushed Bone
-* Stacks to 200 - Stone, Wood, Leather, Fur, Concrete Mix, Nails/Screws/Rebar, all ammunition
-* Stacks to 100 - Ore, Ingots, Crops, Meat, Food
+**> The following improvements are ONLY included in FHComplete**
+**DEEP VEIN DRILL SPEED INCREASED**
+**DROPSHIP LOADOUT INCREASED TO 34 SLOTS**
+**WORKSHOP ITEMS:**
+* O2 tank and canteen come pre-filled
+* Workshop Biofuel can has 100k units of fuel
+* Workshop tools now match the health of their crafted equivalents
+* Larkwell items buffed to 500k health
+**GLASS BUILDINGS:**
+* Now have the durability of concrete buildables
+**WEAPONS AND DAMAGE**
+* Rifles and Bows do more damage now
+* Arrows fly much faster - similar to what you would expect from a compound bow in real life
+* Combine with Larkwell backpack for even more damage (plus 100% ammo capacity on rifles!)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
