@@ -4,9 +4,9 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **CHANGES INCLUDED IN THE FARM HUNT MODS:**
 
-**> > > DEEP VEIN DRILLS NOW MINE FASTER! (Included in FHComplete) < < <**
+**> DEEP VEIN DRILLS NOW MINE FASTER! (Included in FHComplete) < < <**
 
-**Dropship Loadout increased to 34 slots**
+**> Dropship Loadout increased to 34 slots**
 
 **CRAFTING: (included with FHComplete and FHCraft)**
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
