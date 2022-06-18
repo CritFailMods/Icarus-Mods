@@ -14,6 +14,7 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Rope recipe added to Textiles Bench using Fur
 * Fertilizer from Fur - take that excess fur, throw it in the Wood Composter, and make some plant food!
 * Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
+* New recipes for Composite Paste to use Ingots instead of ore (in case you already smelted it all)
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
