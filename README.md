@@ -19,7 +19,6 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
 * New meats drop chance increased from 10% to 25%
-* Some bone rewards increased
 
 **FOOD BUFFS: (included in FHComplete and FHFoodBuffs)**
 * Buffs that were 600sec are now 900sec
@@ -46,14 +45,14 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **DROPSHIP LOADOUT INCREASED TO 34 SLOTS**
 
 **WORKSHOP ITEMS:**
-* O2 tank and canteen come pre-filled
+* O2 tank and canteen come pre-filled and hold 10L
 * Workshop Biofuel can has 100k units of fuel
 * Workshop tools now match the health of their crafted equivalents
 * Larkwell items buffed to 500k health
 **GLASS BUILDINGS:**
 * Now have the durability of concrete buildables
 **WEAPONS AND DAMAGE**
-* Rifles and Bows do more damage now
+* Firearms and Bows do more damage now
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
 * Combine with Larkwell backpack for even more damage (plus 100% ammo capacity on rifles!)
 
