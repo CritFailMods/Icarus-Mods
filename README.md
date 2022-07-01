@@ -6,19 +6,18 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 
 **CRAFTING: (included with FHComplete and FHCraft)**
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
-* Bulk crafting recipes added for numerous high-use items (ammunition, epoxy, resin, pastes, etc.)
+* High-use item recipes changed to craft in x5 quantities (arrows, epoxy, concrete, etc.)
+* All meats given a bulk recipe of x5 added to Potbelly Stove and Kitchen Stove
 * Sticks from Wood recipe added to Mortar and Material Processor
-* Electronics now cheaper to craft and can be crafted in x1/x10 quantities
-* Concrete Mix craftable in x1/x10 quantities
+* Electronics recipe changed to x5, and a x10 recipe added at a 10% discount
 * Fuel can cost reduced from 25 ingots to 10
-* Rope recipe added to Textiles Bench using Fur
-* Fertilizer from Fur - take that excess fur, throw it in the Wood Composter, and make some plant food!
 * Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
 * New recipes for Composite Paste to use Ingots instead of ore (in case you already smelted it all)
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
-* New meats drop chance increased from 10% to 25%
+* Meat drop chance increased from 10% to 50%
+* NEW! - some animals have a rare chance to drop items beyond their typical resources!
 
 **FOOD BUFFS: (included in FHComplete and FHFoodBuffs)**
 * Buffs that were 600sec are now 900sec
@@ -32,11 +31,11 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 * Stacks to 100 - Ore, Ingots, Crops, Meat, Food
 
 **POWER NETWORK & FUEL: (included in FHComplete and FHStacks)**
-* Biofuel Generator and Solar Panel both support a power network of 50,000 (up from 5,000)
-* Fuel Can capacity increased to 50L (was 10)
+* Biofuel Generator and Solar Panel both support a power network of 20,000 (up from 5,000)
+* Fuel Can capacity increased to 20L (was 10)
 * NEW Early Game Biofuel production - Wood Composter has sticks/tree sap recipe to generate biofuel (though at a slow rate compared to T3 composter)
-* Biofuel Lantern capacity increased to 5L (was 1)
-* Biofuel Lamp capacity increased to 8L (was 2)
+* Biofuel Lantern capacity increased to 2.5L (was 1)
+* Biofuel Lamp capacity increased to 5L (was 2)
 
 **> The following improvements are ONLY included in FHComplete**
 
@@ -45,10 +44,10 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **DROPSHIP LOADOUT INCREASED TO 34 SLOTS**
 
 **WORKSHOP ITEMS:**
-* O2 tank and canteen come pre-filled and hold 10L
-* Workshop Biofuel can has 100k units of fuel
-* Workshop tools now match the health of their crafted equivalents
-* Larkwell items buffed to 500k health
+* O2 tank and canteen come pre-filled
+* Workshop Biofuel can has 30L of fuel
+* Workshop tools now match or exceed the health of their crafted equivalents
+* Larkwell items buffed to 75k health
 **GLASS BUILDINGS:**
 * Now have the durability of concrete buildables
 **WEAPONS AND DAMAGE**
