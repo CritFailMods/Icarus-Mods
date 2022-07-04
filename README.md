@@ -50,8 +50,10 @@ Please note: FHComplete is a single download of ALL the other FH mods in one fil
 * Workshop Biofuel can has 30L of fuel
 * Workshop tools now match or exceed the health of their crafted equivalents
 * Larkwell items buffed to 75k health
+
 **GLASS BUILDINGS:**
 * Now have the durability of concrete buildables
+
 **WEAPONS AND DAMAGE**
 * Firearms and Bows do more damage now
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
