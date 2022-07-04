@@ -1,6 +1,6 @@
 # CritFail Mods - Farm Hunt Mods
 
-FARM HUNT: COMPLETE is a single download of all the modular components in one file, and also includes some bonus features. If you do not wish to have all adjustments, simply choose the appropriate pak files that you do want to implement.
+Please note: FHComplete is a single download of ALL the other FH mods in one file, and also includes some bonus features not available in the others. If you do not wish to have all adjustments, simply choose the appropriate mod files that you do want to implement.
 
 **CHANGES INCLUDED IN THE FARM HUNT MODS:**
 
@@ -42,6 +42,8 @@ FARM HUNT: COMPLETE is a single download of all the modular components in one fi
 **DEEP VEIN DRILL SPEED INCREASED**
 
 **DROPSHIP LOADOUT INCREASED TO 34 SLOTS**
+
+**HORDE MODE EXOTIC REWARDS INCREASED**
 
 **WORKSHOP ITEMS:**
 * O2 tank and canteen come pre-filled
