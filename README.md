@@ -13,6 +13,9 @@ Please note: FHComplete is a single download of ALL the other FH mods in one fil
 * Fuel can cost reduced from 25 ingots to 10
 * Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
 * New recipes for Composite Paste to use Ingots instead of ore (in case you already smelted it all)
+* New recipes using Fur! Now you can use your extra Fur to craft: fiber, rope, fertilizer and organic resin!
+* New Biofuel recipe using Exotic Ore! Completely fill a 20L biofuel can in only 8 ticks with Exotic Ore and Oxygen Buff Paste
+* Adjusted some of the Pastes at the Herbalism Bench to no longer require Sponges and instead use more Oxite
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
@@ -44,7 +47,9 @@ Please note: FHComplete is a single download of ALL the other FH mods in one fil
 
 **DROPSHIP LOADOUT INCREASED TO 34 SLOTS**
 
-**HORDE MODE EXOTIC REWARDS INCREASED**
+**HORDE MODE:**
+* Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
+* Timers between waves decreased - hold onto your butts!
 
 **WORKSHOP ITEMS:**
 * O2 tank and canteen come pre-filled
