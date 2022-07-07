@@ -16,6 +16,7 @@ Please note: FHComplete is a single download of ALL the other FH mods in one fil
 * New recipes using Fur! Now you can use your extra Fur to craft: fiber, rope, fertilizer and organic resin!
 * New Biofuel recipe using Exotic Ore! Completely fill a 20L biofuel can in only 8 ticks with Exotic Ore and Oxygen Buff Paste
 * Adjusted some of the Pastes at the Herbalism Bench to no longer require Sponges and instead use more Oxite
+* Larkwell Arrows - can be crafted in-game in x25 stacks using Exotics and some other craftable materials
 
 **ITEM REWARDS: (included with FHComplete and FHCrops&Carcasses)**
 * Grown crop yields increased
