@@ -22,7 +22,6 @@ Please note: FHComplete is a single download of ALL the other FH mods in one fil
 * Grown crop yields increased
 * Meat drop chance increased from 10% to 50%
 * NEW! - some animals have a rare chance to drop items beyond their typical resources!
-* NEW! - Horde Mode now rewards up to 150 Exotics per wave from the Condenser (up to 450 for all 3 waves)
 
 **FOOD BUFFS: (included in FHComplete and FHFoodBuffs)**
 * Buffs that were 600sec are now 900sec
@@ -57,9 +56,6 @@ Please note: FHComplete is a single download of ALL the other FH mods in one fil
 * Workshop Biofuel can has 30L of fuel
 * Workshop tools now match or exceed the health of their crafted equivalents
 * Larkwell items buffed to 75k health
-
-**GLASS BUILDINGS:**
-* Now have the durability of concrete buildables
 
 **WEAPONS AND DAMAGE**
 * Firearms and Bows do more damage now
