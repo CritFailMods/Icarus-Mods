@@ -1,6 +1,8 @@
 # CritFail Mods
 
-SELECT THE 'MAIN' TAB TO NAVIGATE TO THE DESIRED MOD CATEGORY: Farm Hunt is where to find a large overhaul or smaller, modular parts of it. Everything Else is where to find smaller and more situational mods for various purposes.
+SELECT THE 'MAIN' TAB TO NAVIGATE TO THE DESIRED MOD CATEGORY
+* "Farm Hunt" is where to find a large overhaul or smaller, modular parts of it
+* "Everything Else" is where to find smaller and more situational mods for various purposes.
 
 DISCLAIMER: these mods are intended for Offline or Solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, all parties should install the mod(s) to prevent adverse effects.
 
