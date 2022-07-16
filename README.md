@@ -2,8 +2,21 @@
 
 **Mod Changes:**
 
+**Big Stacks**
 **Bye Suits**
-**
+**Crops & Carcasses**
+**Dropship Plus**
+**Envirosuits**
+**Food Buffs**
+**Modules & Backpacks**
+**Moar Bearz**
+**Outdoor Stations**
+**Overhaul**
+**Pneu-B-Gone**
+**Power Network**
+**Recipes**
+**Waste Not**
+
 
 **CRAFTING: (included with FHComplete and FHCraft)**
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
