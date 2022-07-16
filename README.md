@@ -97,6 +97,8 @@
 * 'All' version - Exotics as secondary resource from all metal ores; non-metal ores grant more of the same as secondary resources; 1/2/3% chance based on points invested talent
 * 'PlatTi' version - Exotics as secondary resource from Platinum and Titanium ore nodes; all other metal and non-metal ores grant more of themselves as secondary resources; retains the 5/8/10% chance of vanilla ranks
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 DISCLAIMER: mods can cause issues when playing with others. Generally, use them for solo or offline play. If you intend to run mods with a group, insure that all party members have the same mods installed so that you do not run into any conflicts or bugs. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
 
 **INSTALLATION:**
