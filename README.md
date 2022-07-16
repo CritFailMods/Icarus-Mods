@@ -8,6 +8,8 @@
 * Stacks to 100 - Ore, Ingots, Crops, Meat, Food
 
 **Bye Suits**
+* Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
+* NOTE: only install the mod to get rid of suits - it messes with the suit slot and you will not see your equipped suit on prospects. Remove mod after getting rid of the suits you wish.
 
 **Crops & Carcasses**
 * Grown crop yields increased
@@ -15,8 +17,12 @@
 * NEW! - some animals have a rare chance to drop items beyond their typical resources!
 
 **Dropship Plus**
+* Loadout and dropship inventory increased to 34 slots
+* Shengong O2 tank and canteen come pre-filled and replenish in between missions
 
 **Envirosuits**
+* All envirosuits now have 4 module slots
+* Larkwell envirosuit have stamina stats added
 
 **Food Buffs**
 * Buffs that were 600sec are now 900sec
@@ -25,29 +31,45 @@
 * Workshop buff items are improved (gel, ration, etc.)
 
 **Modules & Backpacks**
-
+* Player Tracker: +50% Radar Scanning Speed
+* Movement Speed: +25% movement speed
+* Fall Damage: +25% fall resist, +50% sprain resist, -25% sprain duration, +15% exposure resist
+* Slots I: +6 inventory, +10kg weight capacity
+* Slots II: +12 inventory, +20kg weight capacity
+* Fire Resistance: +50 fire resist, +50 stamina, +15% heat resist
+* Poison Resistance: +50 poison resist, +50 stamina, +15% health regen
+* Carry Weight: +35kg weight capacity, -25% overencumbered penalty
+* Basic Backpack: +10kg weight capacity, -20% ore weight, +6 inventory slots
+* Mining Backpack: -45% ore/wood/stone weight, -30% axe/pickaxe wear rate, +6 inventory slots
+* Arrow Backpack: +25% bow reload speed, -50% bow wear rate, +50% bow equip speed, +30% bow sight aim speed, +6 inventory slots
+* Survival Backpack: added +10% movement speed to vanilla stats
+* Larkwell Backpack #1: +100% rifle magazine size, +30% rifle/bow reload speed, +25% rifle bullet damage, -30% firearm/bow wear rates, +50% bow equip speed, +50% health/stamina regen, +4 stomach slots, +15kg weight capacity, -25% ore/stone/wood weight, +100% extractor speed, +100% radar scan speed, +200% crafted furnace smelting speed, +12 inventory slots
+* Larkwell Backpack #2: +24 inventory slots, -50% ore/wood/stone/Exotic carry weight
+ 
 **Moar Bearz**
+* Bear population increased 200% (have fuuuun...)
 
 **Outdoor Stations**
+* Most crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
 
 **Overhaul**
 **In addition to the changes listed below, this modpack also includes the mods: BigStacks, Crops&Carcasses, FoodBuffs, PowerNetwork and Recipes**
 * DEEP VEIN DRILL SPEED INCREASED
 * DROPSHIP LOADOUT INCREASED TO 34 SLOTS
-**HORDE MODE:**
-* Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
-* Timers between waves decreased - hold onto your butts!
-**WORKSHOP ITEMS:**
-* O2 tank and canteen come pre-filled
+* Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
+* Horde Mode: Timers between waves decreased - hold onto your butts!
+* Shengong O2 tank and canteen come pre-filled before every mission
 * Workshop Biofuel can has 30L of fuel
 * Workshop tools now match or exceed the health of their crafted equivalents
 * Larkwell items buffed to 75k health
-**WEAPONS AND DAMAGE**
-* Firearms and Bows do more damage now
+* Firearms and Bows do a little more damage now
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
-* Combine with Larkwell backpack for even more damage (plus 100% ammo capacity on rifles!)
 
 **Pneu-B-Gone**
+* Cave debuff now gives beneficial stats
+* Pneumonia doubles down and gives even more beneficial stats
+* Both debuffs have had their names and descriptions 'modified'
+* 'Lite' version has the vanilla duration of Pneumonia and does not have a movement speed increase
 
 **Power Network**
 * Biofuel Generator and Solar Panel both support a power network of 20,000 (up from 5,000)
@@ -69,9 +91,11 @@
 * New Biofuel recipe using Exotic Ore! Completely fill a 20L biofuel can in only 8 ticks with Exotic Ore and Oxygen Buff Paste
 * Adjusted some of the Pastes at the Herbalism Bench to no longer require Sponges and instead use more Oxite
 * Larkwell Arrows - can be crafted in-game in x25 stacks using Exotics and some other craftable materials
-* 
-**Waste Not**
 
+**Waste Not**
+* 'Waste Not' talent renamed to 'What's This?' and the description is changed to reflect what it now does.
+* 'All' version - Exotics as secondary resource from all metal ores; non-metal ores grant more of the same as secondary resources; 1/2/3% chance based on points invested talent
+* 'PlatTi' version - Exotics as secondary resource from Platinum and Titanium ore nodes; all other metal and non-metal ores grant more of themselves as secondary resources; retains the 5/8/10% chance of vanilla ranks
 
 DISCLAIMER: mods can cause issues when playing with others. Generally, use them for solo or offline play. If you intend to run mods with a group, insure that all party members have the same mods installed so that you do not run into any conflicts or bugs. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
 
