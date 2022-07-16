@@ -52,7 +52,8 @@
 **Outdoor Stations**
 * Most crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
 
-**Overhaul**
+**Overhaul:**
+
 **In addition to the changes listed below, this modpack also includes the mods: BigStacks, Crops&Carcasses, FoodBuffs, PowerNetwork and Recipes**
 * DEEP VEIN DRILL SPEED INCREASED
 * DROPSHIP LOADOUT INCREASED TO 34 SLOTS
