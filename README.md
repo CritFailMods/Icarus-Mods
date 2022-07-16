@@ -53,8 +53,7 @@
 * Most crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
 
 **Overhaul:**
-
-**In addition to the changes listed below, this modpack also includes the mods: BigStacks, Crops&Carcasses, FoodBuffs, PowerNetwork and Recipes**
+* In addition to the changes listed below, this modpack also includes these mods: BigStacks, Crops&Carcasses, FoodBuffs, PowerNetwork and Recipes
 * DEEP VEIN DRILL SPEED INCREASED
 * DROPSHIP LOADOUT INCREASED TO 34 SLOTS
 * Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
@@ -100,4 +99,5 @@
 
 DISCLAIMER: mods can cause issues when playing with others. Generally, use them for solo or offline play. If you intend to run mods with a group, insure that all party members have the same mods installed so that you do not run into any conflicts or bugs. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
 
-INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak files, and drag and drop into the mods folder you created. Good to go!
+**INSTALLATION:**
+* If you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak files, and drag and drop into the mods folder you created. Good to go!
