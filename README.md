@@ -6,29 +6,35 @@
 * Stacks to 500 - Fiber, Sticks, Charcoal, Tree Sap, Rope, Epoxy, Gunpowder, Flour, Wheat, Crushed Bone
 * Stacks to 200 - Stone, Wood, Leather, Fur, Concrete Mix, Nails/Screws/Rebar, all ammunition
 * Stacks to 100 - Ore, Ingots, Crops, Meat, Food
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Bye Suits**
 * Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
 * NOTE: only install the mod to get rid of suits - it messes with the suit slot and you will not see your equipped suit on prospects. Remove mod after getting rid of the suits you wish.
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Crops & Carcasses**
 * Grown crop yields increased
 * Meat drop chance increased from 10% to 50%
 * NEW! - some animals have a rare chance to drop items beyond their typical resources!
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Dropship Plus**
 * Loadout and dropship inventory increased to 34 slots
 * Shengong O2 tank and canteen come pre-filled and replenish in between missions
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Envirosuits**
 * All envirosuits now have 4 module slots
 * Larkwell envirosuit have stamina stats added
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Food Buffs**
 * Buffs that were 600sec are now 900sec
 * Buffs that were 900sec are now 1200sec
 * Drinkables are improved (tea, coffee, etc.)
 * Workshop buff items are improved (gel, ration, etc.)
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Modules & Backpacks**
 * Player Tracker: +50% Radar Scanning Speed
@@ -45,12 +51,15 @@
 * Survival Backpack: added +10% movement speed to vanilla stats
 * Larkwell Backpack #1: +100% rifle magazine size, +30% rifle/bow reload speed, +25% rifle bullet damage, -30% firearm/bow wear rates, +50% bow equip speed, +50% health/stamina regen, +4 stomach slots, +15kg weight capacity, -25% ore/stone/wood weight, +100% extractor speed, +100% radar scan speed, +200% crafted furnace smelting speed, +12 inventory slots
 * Larkwell Backpack #2: +24 inventory slots, -50% ore/wood/stone/Exotic carry weight
- 
+_______________________________________________________________________________________________________________________________________________________________________
+
 **Moar Bearz**
 * Bear population increased 200% (have fuuuun...)
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Outdoor Stations**
 * Most crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Overhaul:**
 * In addition to the changes listed below, this modpack also includes these mods: BigStacks, Crops&Carcasses, FoodBuffs, PowerNetwork and Recipes
@@ -64,12 +73,14 @@
 * Larkwell items buffed to 75k health
 * Firearms and Bows do a little more damage now
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Pneu-B-Gone**
 * Cave debuff now gives beneficial stats
 * Pneumonia doubles down and gives even more beneficial stats
 * Both debuffs have had their names and descriptions 'modified'
 * 'Lite' version has the vanilla duration of Pneumonia and does not have a movement speed increase
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Power Network**
 * Biofuel Generator and Solar Panel both support a power network of 20,000 (up from 5,000)
@@ -77,6 +88,7 @@
 * NEW Early Game Biofuel production - Wood Composter has sticks/tree sap recipe to generate biofuel (though at a slow rate compared to T3 composter)
 * Biofuel Lantern capacity increased to 2.5L (was 1)
 * Biofuel Lamp capacity increased to 5L (was 2)
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Recipes**
 * Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
@@ -91,6 +103,7 @@
 * New Biofuel recipe using Exotic Ore! Completely fill a 20L biofuel can in only 8 ticks with Exotic Ore and Oxygen Buff Paste
 * Adjusted some of the Pastes at the Herbalism Bench to no longer require Sponges and instead use more Oxite
 * Larkwell Arrows - can be crafted in-game in x25 stacks using Exotics and some other craftable materials
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Waste Not**
 * 'Waste Not' talent renamed to 'What's This?' and the description is changed to reflect what it now does.
