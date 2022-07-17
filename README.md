@@ -62,7 +62,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Overhaul:**
-* In addition to the changes listed below, this modpack also includes these mods: BigStacks, Crops&Carcasses, FoodBuffs, PowerNetwork and Recipes
+* In addition to the changes listed below, this modpack also includes these mods: BigStacks, Crops&Carcasses, Dropship+, FoodBuffs, PowerNetwork and Recipes
 * DEEP VEIN DRILL SPEED INCREASED
 * DROPSHIP LOADOUT INCREASED TO 34 SLOTS
 * Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
