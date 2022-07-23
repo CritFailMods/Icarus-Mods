@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 **Bye Suits**
 * Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
-* NOTE: only install the mod to get rid of suits - it messes with the suit slot and you will not see your equipped suit on prospects. Remove mod after getting rid of the suits you wish.
+* NOTE: only install the mod to get rid of suits - it messes with the suit slot and the ability to equip anything into it, and you will not see your equipped suit or its module slots on prospects. Remove mod after getting rid of the suits you wish.
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Crops & Carcasses**
