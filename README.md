@@ -1,5 +1,9 @@
 # CritFail Mods
 
+Welcome to my collection of mods for Icarus: First Cohort. Below will be listed the various mods and a description of what they adjust. RECOMMENDED: Download the Icarus Mod Manager by Jim72. It will allow you to easily and conveniently install, remove, merge, and update any mods you use! Mods can be updated every week simply by updating the data folder and then updating the installed mods without the need to re-download versions of them. You can find it here: https://github.com/Jimk72/Icarus_Software
+
+Also, head on over to the Linkarus Discord community for news, help, and other stuff regarding the modding community for the game!
+
 **Mod Changes:**
 
 **Big Stacks**
