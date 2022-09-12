@@ -12,7 +12,7 @@ Also, head on over to the Linkarus Discord community for news, help, and other s
 * Stacks to 100 - Ore, Ingots, Crops, Meat, Food
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Bye Suits**
+**Bye Suits** IMPORTANT: use this mod ONLY to remove excess envirosuits from your space inventory. REMOVE MOD after doing so, or you will encounter issues.
 * Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
 * NOTE: only install the mod to get rid of suits - it messes with the suit slot and the ability to equip anything into it, and you will not see your equipped suit or its module slots on prospects. Remove mod after getting rid of the suits you wish.
 _______________________________________________________________________________________________________________________________________________________________________
