@@ -6,21 +6,9 @@ Also, head on over to the Linkarus Discord community for news, help, and other s
 
 **Mod Changes:**
 
-**Big Stacks**
-* Stacks to 500 - Fiber, Sticks, Charcoal, Tree Sap, Rope, Epoxy, Gunpowder, Flour, Wheat, Crushed Bone
-* Stacks to 200 - Stone, Wood, Leather, Fur, Concrete Mix, Nails/Screws/Rebar, all ammunition
-* Stacks to 100 - Ore, Ingots, Crops, Meat, Food
-_______________________________________________________________________________________________________________________________________________________________________
-
 **Bye Suits** 
 * IMPORTANT NOTICE: use this mod ONLY to remove excess envirosuits from your space inventory. REMOVE MOD after doing so, or you will encounter issues.
 * Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
-_______________________________________________________________________________________________________________________________________________________________________
-
-**Crops & Carcasses**
-* Grown crop yields increased
-* Meat drop chance increased from 10% to 50%
-* NEW! - some animals have a rare chance to drop items beyond their typical resources!
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Dropship Plus**
@@ -31,13 +19,6 @@ ________________________________________________________________________________
 **Envirosuits**
 * All envirosuits now have 4 module slots
 * Larkwell envirosuit have stamina stats added
-_______________________________________________________________________________________________________________________________________________________________________
-
-**Food Buffs**
-* Buffs that were 600sec are now 900sec
-* Buffs that were 900sec are now 1200sec
-* Drinkables are improved (tea, coffee, etc.)
-* Workshop buff items are improved (gel, ration, etc.)
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Modules & Backpacks**
@@ -86,34 +67,10 @@ ________________________________________________________________________________
 * 'Lite' version has the vanilla duration of Pneumonia and does not have a movement speed increase
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Power Network**
-* Biofuel Generator and Solar Panel both support a power network of 20,000 (up from 5,000)
-* Fuel Can capacity increased to 20L (was 10)
-* NEW Early Game Biofuel production - Wood Composter has sticks/tree sap recipe to generate biofuel (though at a slow rate compared to T3 composter)
-* Biofuel Lantern capacity increased to 2.5L (was 1)
-* Biofuel Lamp capacity increased to 5L (was 2)
-_______________________________________________________________________________________________________________________________________________________________________
-
-**Recipes**
-* Lantern and Biofuel Lamp - now require fuel to craft, but come fully filled with fuel (50% of a full tank to craft, but 100% full result)
-* High-use item recipes changed to craft in x5 quantities (arrows, epoxy, concrete, etc.)
-* All meats given a bulk recipe of x5 added to Potbelly Stove and Kitchen Stove
-* Sticks from Wood recipe added to Mortar and Material Processor
-* Electronics recipe changed to x5, and a x10 recipe added at a 10% discount
-* Fuel can cost reduced from 25 ingots to 10
-* Recipe cost reductions for various T4 crafting stations and items (mostly less Electronics)
-* New recipes for Composite Paste to use Ingots instead of ore (in case you already smelted it all)
-* New recipes using Fur! Now you can use your extra Fur to craft: fiber, rope, fertilizer and organic resin!
-* New Biofuel recipe using Exotic Ore! Completely fill a 20L biofuel can in only 8 ticks with Exotic Ore and Oxygen Buff Paste
-* Adjusted some of the Pastes at the Herbalism Bench to no longer require Sponges and instead use more Oxite
-* Larkwell Arrows - can be crafted in-game in x25 stacks using Exotics and some other craftable materials
-_______________________________________________________________________________________________________________________________________________________________________
-
 **Waste Not**
 * 'Waste Not' talent renamed to 'What's This?' and the description is changed to reflect what it now does.
 * 'All' version - Exotics as secondary resource from all metal ores; non-metal ores grant more of the same as secondary resources; 1/2/3% chance based on points invested talent
 * 'PlatTi' version - Exotics as secondary resource from Platinum and Titanium ore nodes; all other metal and non-metal ores grant more of themselves as secondary resources; retains the 5/8/10% chance of vanilla ranks
-
 _______________________________________________________________________________________________________________________________________________________________________
 
 DISCLAIMER: mods can cause issues when playing with others. Generally, use them for solo or offline play. If you intend to run mods with a group, insure that all party members have the same mods installed so that you do not run into any conflicts or bugs. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
