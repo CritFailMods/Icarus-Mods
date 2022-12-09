@@ -47,7 +47,9 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Overhaul:**
-* In addition to the changes listed below, this modpack also includes these mods: BigStacks, Crops&Carcasses, Dropship+, FoodBuffs, PowerNetwork and Recipes
+* Various improvements to crafting (bulk recipes, adjusted material costs, etc.)
+* Stack sizes of many items increased (200 for ammo, up to 500 for various materials, 100 for food, etc.)
+* Biofuel Generator, Solar Panel, and Waterwheel generate a power network of 20k each
 * DEEP VEIN DRILL SPEED INCREASED
 * DROPSHIP LOADOUT INCREASED TO 34 SLOTS
 * Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
