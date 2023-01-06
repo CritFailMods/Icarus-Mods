@@ -21,7 +21,8 @@ ________________________________________________________________________________
 * Larkwell envirosuit have stamina stats added
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Modules & Backpacks**
+**Modules & Backpacks (AND now the Buffalo Cart)**
+* Cart weight capacity increased to 3000kg and movement debuff removed
 * Player Tracker: +50% Radar Scanning Speed
 * Movement Speed: +25% movement speed
 * Fall Damage: +25% fall resist, +50% sprain resist, -25% sprain duration, +15% exposure resist
