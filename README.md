@@ -6,6 +6,14 @@ Also, head on over to the Linkarus Discord community for news, help, and other s
 
 **Mod Changes:**
 
+_______________________________________________________________________________________________________________________________________________________________________
+
+**Blessing of Tartarus**
+* Cave debuff now gives beneficial stats
+* Pneumonia doubles down and gives even more beneficial stats
+* Both debuffs have had their names and descriptions 'modified'
+_______________________________________________________________________________________________________________________________________________________________________
+
 **Bye Suits** 
 * IMPORTANT NOTICE: use this mod ONLY to remove excess envirosuits from your space inventory. REMOVE MOD after doing so, or you will encounter issues.
 * Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
@@ -61,13 +69,6 @@ ________________________________________________________________________________
 * Larkwell items buffed to 75k health
 * Firearms and Bows do a little more damage now
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
-_______________________________________________________________________________________________________________________________________________________________________
-
-**Pneu-B-Gone**
-* Cave debuff now gives beneficial stats
-* Pneumonia doubles down and gives even more beneficial stats
-* Both debuffs have had their names and descriptions 'modified'
-* 'Lite' version has the vanilla duration of Pneumonia and does not have a movement speed increase
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Waste Not**
