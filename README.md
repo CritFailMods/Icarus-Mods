@@ -74,6 +74,7 @@ ________________________________________________________________________________
 **Waste Not**
 * 'Waste Not' talent renamed to 'What's This?' and the description is changed to reflect what it now does.
 * 'All' version - Exotics as secondary resource from all metal ores; non-metal ores grant more of the same as secondary resources; 1/2/3% chance based on points invested talent
+* 'ULTIMATE' version - same as ALL version but with a 3/6/9% chance
 * 'PlatTi' version - Exotics as secondary resource from Platinum and Titanium ore nodes; all other metal and non-metal ores grant more of themselves as secondary resources; retains the 5/8/10% chance of vanilla ranks
 _______________________________________________________________________________________________________________________________________________________________________
 
