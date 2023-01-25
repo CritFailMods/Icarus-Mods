@@ -55,7 +55,7 @@ ________________________________________________________________________________
 * Most crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Overhaul:**
+**Gifts of Prometheus (overhaul):**
 * Various improvements to crafting (bulk recipes, adjusted material costs, etc.)
 * Stack sizes of many items increased (200 for ammo, up to 500 for various materials, 100 for food, etc.)
 * Biofuel Generator, Solar Panel, and Waterwheel generate a power network of 20k each
