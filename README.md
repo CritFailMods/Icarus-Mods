@@ -24,10 +24,10 @@ ________________________________________________________________________________
 * Shengong O2 tank and canteen come pre-filled and replenish in between missions
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Envirosuits**
-* All envirosuits now have 4 module slots
+**Golden Underoos (envirosuits)**
+* All envirosuits now have at least 4 module slots
 * All envirosuits have a Food Slot
-* Larkwell envirosuit have stamina stats added
+* Stats tweaked/added to all suits (extra resistances, extra inventory slots, etc.)
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Modules & Backpacks (AND now the Buffalo Cart)**
