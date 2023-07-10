@@ -48,20 +48,16 @@ ________________________________________________________________________________
 * Larkwell Backpack #2: +24 inventory slots, -50% ore/wood/stone/Exotic carry weight
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Moar Bearz**
-* Bear population increased 200% (have fuuuun...)
-_______________________________________________________________________________________________________________________________________________________________________
-
 **Outdoor Stations**
-* Most crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
+* All crafting stations can now be placed outside (no longer require shelter to work and are immune to weather damage)
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Gifts of Prometheus (overhaul):**
-* Various improvements to crafting (bulk recipes, adjusted material costs, etc.)
+* Various improvements to crafting (bulk recipes, adjusted material costs for tier 4 benches, etc.)
 * Stack sizes of many items increased (200 for ammo, up to 500 for various materials, 100 for food, etc.)
 * Biofuel Generator, Solar Panel, and Waterwheel generate a power network of 20k each
 * DEEP VEIN DRILL SPEED INCREASED
-* DROPSHIP LOADOUT INCREASED TO 34 SLOTS
+* DROPSHIP LOADOUT INCREASED TO 40 SLOTS
 * Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
 * Horde Mode: Timers between waves decreased - hold onto your butts!
 * Shengong O2 tank and canteen come pre-filled before every mission
@@ -75,8 +71,8 @@ ________________________________________________________________________________
 **Waste Not**
 * 'Waste Not' talent renamed to 'What's This?' and the description is changed to reflect what it now does.
 * 'All' version - Exotics as secondary resource from all metal ores; non-metal ores grant more of the same as secondary resources; 1/2/3% chance based on points invested talent
-* 'ULTIMATE' version - same as ALL version but with a 3/6/9% chance
-* 'PlatTi' version - Exotics as secondary resource from Platinum and Titanium ore nodes; all other metal and non-metal ores grant more of themselves as secondary resources; retains the 5/8/10% chance of vanilla ranks
+* 'ULTIMATE' version - same as ALL version but with a 5/10/15% chance
+* 'PlatTi' version - Exotics as secondary resource from Platinum and Titanium ore nodes; all other metal and non-metal ores grant more of themselves as secondary resources; retains the 5/10/15% chance of vanilla ranks
 _______________________________________________________________________________________________________________________________________________________________________
 
 DISCLAIMER: mods can cause issues when playing with others. Generally, use them for solo or offline play. If you intend to run mods with a group, insure that all party members have the same mods installed so that you do not run into any conflicts or bugs. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
