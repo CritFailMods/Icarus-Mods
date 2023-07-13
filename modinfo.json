@@ -4,7 +4,7 @@
       "name": "Blessing of Tartarus",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "changes Underground and Pneumonia debuffs to benefits",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_Blessing_Of_Tartarus%20_P.pak"
@@ -15,7 +15,7 @@
       "name": "Bye Suits",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "allows envirosuits to be placed in Loadout and taken down to planet for disposal (please consult readme before use)",
       "files": { 
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_ByeSuits%20_P.pak"
@@ -26,7 +26,7 @@
       "name": "Dropship Plus",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "Increases Loadout and dropship inventory to 34 slots",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_Dropship_Plus%20_P.pak"
@@ -37,7 +37,7 @@
       "name": "Golden Underoos",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "all envirouits now have 4 upgrade module slots and food slots; numerous stats improved/added to all suits",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_Golden_Underoos%20_P.pak"
@@ -48,7 +48,7 @@
       "name": "Modules and Backpacks",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "many stat increases and changes to modules; buffalo cart has 3000kg capacity and no movement debuff, backpack stats also improved",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_MandB%20_P.pak"
@@ -59,7 +59,7 @@
       "name": "Outdoor Stations",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "many crafting stations can now be placed outside and are immune to weather",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_ODStat%20_P.pak"
@@ -70,7 +70,7 @@
       "name": "Gifts of Prometheus",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "crafting improvements, bulk recipes, item stack sizes increased, Horde Mode rewards increased, deep ore veins have higher volume and faster drill speed, power network increased, workshop tools improved, firearms and bow damage increased, arrows fly faster",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_Gifts_Of_Prometheus%20_P.pak"
@@ -81,7 +81,7 @@
       "name": "WasteNot ALL",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "all metal ores now have a 1/2/3% chance to reward Exotics as secondary resource; other ores grants more of the same material",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_WasteNot_ALL%20_P.pak"
@@ -92,7 +92,7 @@
       "name": "WasteNot ULTIMATE",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "all metal ores have a 3/6/9% chance to reward Exotics as secondary resource; other ores grant more of same material",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_WasteNot_ULTIMATE%20_P.pak"
@@ -103,7 +103,7 @@
       "name": "WasteNot PlatTi",
       "author": "Critical_Fail",
       "version": "1.0",
-      "compatibility": "w83",
+      "compatibility": "w84",
       "description": "platinum and titanium ores have a 5/10/15% chance to reward Exotics as secondary resource; all other ores grant more of same material",
       "files": {
         "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_WasteNot_PlatTi%20_P.pak"
