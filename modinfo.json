@@ -12,17 +12,6 @@
       "readmeURL": "https://github.com/CritFailMods/Icarus-Mods/raw/main/README.md"
     },
     {
-      "name": "Bye Suits",
-      "author": "Critical_Fail",
-      "version": "1.0",
-      "compatibility": "w84",
-      "description": "allows envirosuits to be placed in Loadout and taken down to planet for disposal (please consult readme before use)",
-      "files": { 
-        "pak": "https://github.com/CritFailMods/Icarus-Mods/raw/main/CritFail_ByeSuits%20_P.pak"
-    },  
-      "readmeURL": "https://github.com/CritFailMods/Icarus-Mods/raw/main/README.md"
-    },
-    {
       "name": "Dropship Plus",
       "author": "Critical_Fail",
       "version": "1.0",
