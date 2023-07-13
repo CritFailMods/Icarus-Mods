@@ -14,11 +14,6 @@ ________________________________________________________________________________
 * Both debuffs have had their names and descriptions 'modified'
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Bye Suits** 
-* IMPORTANT NOTICE: use this mod ONLY to remove excess envirosuits from your space inventory. REMOVE MOD after doing so, or you will encounter issues.
-* Allows you to move spare envirosuits to your Loadout for the purpose of taking them down to Icarus and destroying/discarding them
-_______________________________________________________________________________________________________________________________________________________________________
-
 **Dropship Plus**
 * Loadout and dropship inventory increased to 40 slots
 * Shengong O2 tank and canteen come pre-filled and replenish in between missions
