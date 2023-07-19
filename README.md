@@ -59,7 +59,6 @@ ________________________________________________________________________________
 * Workshop Biofuel can has 30L of fuel
 * Workshop tools now match or exceed the health of their crafted equivalents
 * Larkwell items buffed to 75k health
-* Firearms and Bows do a little more damage now
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
 _______________________________________________________________________________________________________________________________________________________________________
 
