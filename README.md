@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 **Dropship Plus**
 * Loadout and dropship inventory increased to 40 slots
-* Shengong O2 tank and canteen come pre-filled and replenish in between missions
+* Fuel slots increased from 1 to 2
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Golden Underoos (envirosuits)**
@@ -49,17 +49,20 @@ ________________________________________________________________________________
 
 **Gifts of Prometheus (overhaul):**
 * Various improvements to crafting (bulk recipes, adjusted material costs for tier 4 benches, etc.)
-* Stack sizes of many items increased (200 for ammo, up to 500 for various materials, 100 for food, etc.)
-* Biofuel Generator, Solar Panel, and Waterwheel generate a power network of 20k each
-* DEEP VEIN DRILL SPEED INCREASED
-* DROPSHIP LOADOUT INCREASED TO 40 SLOTS
+* Buff durations doubled (600 > 1200, 900 > 1800, 1200 > 2400)
+* Stack sizes of many items increased (200 for ammo, up to 1000 for various materials, 100 for food, etc.)
+* Biofuel Generator, Solar Panel, and Waterwheel generate a power network of 20k each - Windmill power network 5k each
+* Deep Vein Drill Speed increased to 10 seconds
+* Dropship/Loadout increased to 40 slots
 * Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
 * Horde Mode: Timers between waves decreased - hold onto your butts!
-* Shengong O2 tank and canteen come pre-filled before every mission
 * Workshop Biofuel can has 30L of fuel
-* Workshop tools now match or exceed the health of their crafted equivalents
-* Larkwell items buffed to 75k health
+* Lantern craftable at Character level, and can be 'repaired' in your inventory to 'refill' it
+* Crop Plots stack! (up to 20)
+* Larkwell items buffed to 100k health
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
+* Pistol holds 6 rounds instead of single-shot
+* Hunting Rifle holds 12 rounds instead of 6
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Waste Not**
