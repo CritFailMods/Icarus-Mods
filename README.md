@@ -14,33 +14,16 @@ ________________________________________________________________________________
 * Both debuffs have had their names and descriptions 'modified'
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Dropship Plus**
-* Loadout and dropship inventory increased to 40 slots
-* Fuel slots increased from 1 to 2
-_______________________________________________________________________________________________________________________________________________________________________
-
-**Golden Underoos (envirosuits)**
-* All envirosuits now have at least 4 module slots
-* All envirosuits have a Food Slot
-* Stats tweaked/added to all suits (extra resistances, extra inventory slots, etc.)
+**Improved Undersuits**
+* More Module slots added to many suits
+* Food slot added to a few more suits
+* Stats tweaked/added to many suits (extra resistances, extra inventory slots, etc.)
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Modules & Backpacks (AND now the Buffalo Cart)**
 * Cart weight capacity increased to 3000kg and movement debuff removed
-* Player Tracker: +50% Radar Scanning Speed
-* Movement Speed: +25% movement speed
-* Fall Damage: +25% fall resist, +50% sprain resist, -25% sprain duration, +15% exposure resist
-* Slots I: +6 inventory, +10kg weight capacity
-* Slots II: +12 inventory, +20kg weight capacity
-* Fire Resistance: +50 fire resist, +50 stamina, +15% heat resist
-* Poison Resistance: +50 poison resist, +50 stamina, +15% health regen
-* Carry Weight: +35kg weight capacity, -25% overencumbered penalty
-* Basic Backpack: +10kg weight capacity, -20% ore weight, +6 inventory slots
-* Mining Backpack: -45% ore/wood/stone weight, -30% axe/pickaxe wear rate, +6 inventory slots
-* Arrow Backpack: +25% bow reload speed, -50% bow wear rate, +50% bow equip speed, +30% bow sight aim speed, +6 inventory slots
-* Survival Backpack: added +10% movement speed to vanilla stats
-* Larkwell Backpack #1: +100% rifle magazine size, +30% rifle/bow reload speed, +25% rifle bullet damage, -30% firearm/bow wear rates, +50% bow equip speed, +50% health/stamina regen, +4 stomach slots, +15kg weight capacity, -25% ore/stone/wood weight, +100% extractor speed, +100% radar scan speed, +200% crafted furnace smelting speed, +12 inventory slots
-* Larkwell Backpack #2: +24 inventory slots, -50% ore/wood/stone/Exotic carry weight
+* Various small tweaks to some Upgrade Modules
+* Increases and additions to many backpack stats
 _______________________________________________________________________________________________________________________________________________________________________
 
 **Outdoor Stations**
@@ -57,7 +40,6 @@ ________________________________________________________________________________
 * Horde Mode: Exotic rewards for each wave increased, up to a maximum potential payout of 450 Exotics for completing all 3 waves
 * Horde Mode: Timers between waves decreased - hold onto your butts!
 * Workshop Biofuel can has 30L of fuel
-* Lantern craftable at Character level, and can be 'repaired' in your inventory to 'refill' it
 * Crop Plots stack! (up to 20)
 * Larkwell items buffed to 100k health
 * Arrows fly much faster - similar to what you would expect from a compound bow in real life
